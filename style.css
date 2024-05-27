@@ -135,4 +135,5 @@ a:hover {
 
 .personal-info p:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
