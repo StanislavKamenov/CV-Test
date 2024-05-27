@@ -6,13 +6,6 @@ body {
   height: 100vh;
 }
 
-/* @font-face {
-  font-family: "Quicsand";
-  src: url(./root/fonts/Quicksand-Regular.ttf) format("woff2");
-  font-style: normal;
-  font-weight: 300;
-} */
-
 .content-box {
   width: 80vh;
   height: 100%;
